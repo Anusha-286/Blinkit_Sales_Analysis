@@ -25,8 +25,11 @@ The Blinkit Sales Analysis Dashboard provides a comprehensive overview of grocer
 
 Key Features:
 Overall Sales Summary : Displays total sales, average sales per item, and item rating distribution.
+
 Top & Bottom Performing Products : Visualizes best and worst-performing items based on sales and visibility.
+
 Sales by Item Type : Breakdown of total sales across different categories like Fruits & Vegetables, Beverages, Frozen Foods, etc.
+
 -- Outlet Performance
 Compares outlets by:
 Sales revenue
