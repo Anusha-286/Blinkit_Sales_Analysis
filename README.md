@@ -33,16 +33,22 @@ Sales by Item Type : Breakdown of total sales across different categories like F
 -- Outlet Performance
 Compares outlets by:
 Sales revenue
+
 Ratings
+
 Location type (Tier 1, 2, 3)
-Outlet size and type
+
 Temporal Trends : Evaluates how outlet establishment year affects performance and identifies trends across different years.
 
 # Insights Derived
 Sales Trends: Average item sales is approximately $141.
+
 Outlet Performance: Most outlets are of Supermarket Type1.
+
 Tier 3 and medium-sized outlets are the most common.
+
 Item Performance: "Fruits and Vegetables" is the most frequent item category.
+
 Majority of products are rated 4 or 5, indicating good customer satisfaction.
 
 # Conclusion
